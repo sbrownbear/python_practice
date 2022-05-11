@@ -8,3 +8,5 @@ In this repo I publish the code created during the study of practice python.
 2_conditional_operator_1.py - Выбор из двух.
 
 2_conditional_operator_2.py - Логические операции.
+
+2_conditional_operator_3.py - Вложенные и каскадные условия.
