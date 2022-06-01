@@ -12,3 +12,7 @@ In this repo I publish the code created during the study of practice python.
 `2_conditional_operator_3.py` - Вложенные и каскадные условия.
 
 `2_conditional_operator_4.py` - Итоговая работа на условный опреатор.
+
+`3_int_float.py` - Числовые типы данных: int, float.
+
+`3_string_data_type.py` - Строковый тип данных.
