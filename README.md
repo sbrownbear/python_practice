@@ -16,3 +16,5 @@ In this repo I publish the code created during the study of practice python.
 `3_int_float.py` - Числовые типы данных: int, float.
 
 `3_string_data_type.py` - Строковый тип данных.
+
+`3_math_module.py` - Модуль math
