@@ -20,3 +20,5 @@ In this repo I publish the code created during the study of practice python.
 `3_math_module.py` - Модуль math.
 
 `4_for.py` - Цикл for.
+
+`4_for_range.py` - Цикл for: функция range.
