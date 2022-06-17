@@ -22,3 +22,7 @@ In this repo I publish the code created during the study of practice python.
 `4_for.py` - Цикл for.
 
 `4_for_range.py` - Цикл for: функция range.
+
+`4_for_range_frequent_scenarios.py` - Частые сценарии.
+
+`4_for_range_frequent_scenarios_2.py` - Частые сценарии 2.
