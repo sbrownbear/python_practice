@@ -26,3 +26,7 @@ In this repo I publish the code created during the study of practice python.
 `4_for_range_frequent_scenarios.py` - Частые сценарии.
 
 `4_for_range_frequent_scenarios_2.py` - Частые сценарии 2.
+
+`4_while.py` - Цикл while.
+
+`4_while_2.py` - Цикл while: обработка цифр числа.
